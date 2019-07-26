@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+this was from https://codeburst.io/learning-react-js-by-building-a-minesweeper-game-ced9d41560ed
+
+I don't really like this game, probabbly because I didn't play minesweeper before but I managed to code it.
 ## Available Scripts
 
 In the project directory, you can run:
